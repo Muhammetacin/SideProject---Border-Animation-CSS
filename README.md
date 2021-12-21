@@ -22,3 +22,5 @@ font-family: 'Ubuntu', sans-serif;
 
 So I learned how to import Fonts online (here I imported this font from Google fonts).
 Link to font: <https://fonts.google.com/specimen/Ubuntu>
+
+Source: Border Animation CSS | Quick Animation: <https://youtu.be/wqb0kaRdyyA>
